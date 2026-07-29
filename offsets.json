@@ -1,15 +1,15 @@
 {
   "Client": {
-    "dwEntityList": "0x254EE60",
-    "dwLocalPlayerController": "0x237EBA0",
-    "dwViewAngles": "0x23B9C78",
-    "dwViewMatrix": "0x23A9340",
-    "dwForceJump": "0x2094490",
+    "dwEntityList": "0x254FE70",
+    "dwLocalPlayerController": "0x237FB70",
+    "dwViewAngles": "0x23BAE18",
+    "dwViewMatrix": "0x23AA340",
+    "dwForceJump": "0x2095490",
     "m_iIDEntIndex": "0x341C",
-    "dwGlobalVars": "0x208FD60",
+    "dwGlobalVars": "0x2090D60",
     "m_modelState": "0x140",
     "m_skeletonInstance": "0x80",
-    "dwWeaponC4": "0x231C9D0"
+    "dwWeaponC4": "0x231DB10"
   },
   "Entity": {
     "m_iHealth": "0x34C",
